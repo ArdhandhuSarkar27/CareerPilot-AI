@@ -55,3 +55,16 @@ capstone_project/
 * LLaMA Integration
 * GPU Performance Benchmarking
 * Personalized Career Recommendations
+
+
+✅ Project Architecture
+✅ Dataset Creation
+✅ Repository Setup
+⬜ Streamlit UI
+⬜ Career Recommendation Engine
+⬜ Skill Gap Analysis
+⬜ Roadmap Generator
+⬜ Project Recommendation Module
+⬜ Interview Question Generator
+⬜ LoRA Fine-Tuning
+⬜ GPU Benchmarking
