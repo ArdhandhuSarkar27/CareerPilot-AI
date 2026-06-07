@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+torch
+transformers
+datasets
+peft
+accelerate
